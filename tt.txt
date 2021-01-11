@@ -1,0 +1,133 @@
+/* 
+
+ 
+
+
+@media only screen and (max-width: 600px) {
+    .text{
+    font-size: 15px;
+    font-family: arial;
+}
+
+input{
+    width: 130px;
+    padding:2px 2px 2px 37px;
+    border: 1px solid grey;
+    vertical-align:center;
+    margin: auto;
+}
+.wrapper{
+    position: relative;
+}
+
+.static{
+    position: absolute;
+    padding: 3px;
+}
+}
+
+
+
+
+ 
+@media only screen and (min-width: 600px) {
+    .text{
+    font-size: 15px;
+    font-family: arial;
+}
+
+input{
+    width: 130px;
+    padding:2px 2px 2px 37px;
+    border: 1px solid grey;
+    vertical-align:center;
+    margin: auto;
+}
+.wrapper{
+    position: relative;
+}
+
+.static{
+    position: absolute;
+    padding: 3px;
+}
+}
+
+
+
+
+ 
+@media only screen and (min-width: 768px) {
+    .text{
+    font-size: 15px;
+    font-family: arial;
+}
+
+input{
+    width: 130px;
+    padding:2px 2px 2px 37px;
+    border: 1px solid grey;
+    vertical-align:center;
+    margin: auto;
+}
+.wrapper{
+    position: relative;
+}
+
+.static{
+    position: absolute;
+    padding: 3px;
+}
+} 
+
+
+
+
+ 
+@media only screen and (min-width: 992px) {
+    .text{
+    font-size: 15px;
+    font-family: arial;
+}
+
+input{
+    width: 130px;
+    padding:2px 2px 2px 37px;
+    border: 1px solid grey;
+    vertical-align:center;
+    margin: auto;
+}
+.wrapper{
+    position: relative;
+}
+
+.static{
+    position: absolute;
+    padding: 3px;
+}
+} 
+
+ 
+@media only screen and (min-width: 1200px) {
+    .text{
+    font-size: 15px;
+    font-family: arial;
+}
+
+input.text{
+    width: 130px;
+    padding:2px 2px 2px 37px;
+    border: 1px solid grey;
+    vertical-align:center;
+    margin: auto;
+}
+.wrapper{
+    position: relative;
+}
+
+.static{
+    position: absolute;
+    padding: 3px;
+}
+
+} */
